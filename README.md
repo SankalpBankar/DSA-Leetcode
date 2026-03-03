@@ -7,14 +7,16 @@ The goal is to strengthen problem-solving skills, stay consistent, solve DSA pro
 ```
 DSA-Leetcode/
 │
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Trees/
-├── Stack/
-├── Queue/
-├── Recursion/
-├── DynamicProgramming/
-├── Graphs/
+├── Arrays
+├── Math
+├── Strings
+├── LinkedList
+├── Searching & Sorting
+├── Stack
+├── Queue
+├── Recursion
+├── DynamicProgramming
+├── Graphs
+├── Trees
 
 ```
