@@ -12,8 +12,7 @@ DSA-Leetcode/
 ├── Strings
 ├── LinkedList
 ├── Searching & Sorting
-├── Stack
-├── Queue
+├── Stack & Queue
 ├── Recursion
 ├── DynamicProgramming
 ├── Graphs
