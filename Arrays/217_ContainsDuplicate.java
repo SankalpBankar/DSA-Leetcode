@@ -8,7 +8,6 @@ class Solution {
             if (set.contains(num)) {
                 return true; // duplicate found
             }
-            
             set.add(num);
         }
         
