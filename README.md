@@ -10,12 +10,16 @@ DSA-Leetcode/
 ├── Arrays
 ├── Math
 ├── Strings
-├── LinkedList
 ├── Searching & Sorting
-├── Stack & Queue
+├── LinkedList
 ├── Recursion
-├── DynamicProgramming
-├── Graphs
+├── Bit Manipulation
+├── Stack & Queue
+├── Heaps
+├── Greedy Algorithms
 ├── Trees
+├── Graphs
+├── DynamicProgramming
+├── Tries
 
 ```
